@@ -12,3 +12,4 @@ This project demonstrates a **Motion Detection System** built using OpenCV in Py
 - **Python 3.9.6
 - **OpenCV**
 - **Numpy**
+- **Imutils**
